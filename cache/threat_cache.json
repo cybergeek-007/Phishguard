@@ -1,0 +1,71 @@
+{
+  "ip:127.0.0.1": {
+    "result": {
+      "score": 5,
+      "is_whitelisted": false,
+      "country": "US",
+      "isp": "Unknown",
+      "sources": [
+        "DEMO"
+      ],
+      "note": "Simulated data (demo mode)"
+    },
+    "cached_at": 1770746690.518793
+  },
+  "ip:45.33.22.11": {
+    "result": {
+      "score": 85,
+      "is_whitelisted": false,
+      "country": "RU",
+      "isp": "Suspicious Network",
+      "sources": [
+        "DEMO"
+      ],
+      "note": "Suspicious IP pattern (demo mode)"
+    },
+    "cached_at": 1770746690.5195336
+  },
+  "domain:paypa1-verify.com": {
+    "result": {
+      "age_days": 12,
+      "is_new": true,
+      "registrar": "Suspicious Registrar",
+      "creation_date": "2026-01-15",
+      "note": "Simulated data (demo mode)"
+    },
+    "cached_at": 1770748269.8715186
+  },
+  "url:http://paypa1-verify.com/login": {
+    "result": {
+      "is_malicious": false,
+      "threat_types": [],
+      "sources": [
+        "DEMO"
+      ],
+      "note": "Simulated data (demo mode)"
+    },
+    "cached_at": 1770748269.879985
+  },
+  "url:https://www.paypal.com/signin<br>": {
+    "result": {
+      "is_malicious": false,
+      "threat_types": [],
+      "sources": [
+        "DEMO"
+      ],
+      "note": "Simulated data (demo mode)"
+    },
+    "cached_at": 1770748269.8804362
+  },
+  "url:http://paypa1-verify.com/login</p>": {
+    "result": {
+      "is_malicious": false,
+      "threat_types": [],
+      "sources": [
+        "DEMO"
+      ],
+      "note": "Simulated data (demo mode)"
+    },
+    "cached_at": 1770748269.8807802
+  }
+}
